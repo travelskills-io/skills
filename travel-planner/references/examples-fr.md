@@ -1,6 +1,6 @@
 # French examples and phrasings
 
-Read this file when the deliverable is in French. It holds the French version of every pattern (warning signs, before and after) and the full French example. The rules and the process stay those of `SKILL.md`; France-specific legal notions are in `france.md`.
+Read this file when the deliverable is in French. It holds the French version of every pattern (warning signs, before and after) and the full French example. The rules and the process stay those of `SKILL.md`; France-specific legal notions are in `france.md`. References to the « section Sortie » point to the OUTPUT section of `SKILL.md`.
 
 Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifiés le 07/11/2026, sauf ceux que liste un encadré « Pour le planner ». Ils illustrent la forme attendue : revérifie-les avant de les réutiliser dans un livrable.
 
@@ -30,7 +30,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après :**
 
-> Jour 1 · Tokyo. Arrivée à Narita. Narita Express jusqu'à Shinjuku (environ 1h30, 3 330 ¥, tarif vérifié le 07/11/2026). Check-in à l'hôtel Gracery (lien de réservation et conditions d'annulation dans l'onglet Hébergements). Soirée libre : je vous recommande Omoide Yokocho, à 5-10 min à pied, pour un premier dépaysement culinaire dans ses ruelles de petits comptoirs à yakitoris.
+> Jour 1 · Tokyo. Arrivée à Narita. Narita Express jusqu'à Shinjuku (environ 1h30, 3 330 ¥, tarif vérifié le 07/11/2026). Check-in à l'hôtel Gracery. Soirée libre : je vous recommande Omoide Yokocho, à 5-10 min à pied, pour un premier dépaysement culinaire dans ses ruelles de petits comptoirs à yakitoris.
 
 ---
 
@@ -62,7 +62,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après :**
 
-> 9h · Musée du Louvre. 22 €, 32 € pour les visiteurs hors Espace économique européen, gratuit pour les moins de 18 ans. Créneau horaire à réserver en ligne, y compris pour les entrées gratuites (lien ci-dessous). Fermé le mardi. Tarifs et conditions vérifiés le 07/11/2026. Comptez 2h30 à 3h. Entrez par le Carrousel du Louvre, souvent plus calme que la Pyramide.<br />12h30 · Déjeuner au Palais-Royal, à environ 5 min à pied. Je vous recommande le comptoir de Café Kitsuné sous les arcades, pour un déjeuner léger à emporter dans le jardin.<br />14h · Marche jusqu'au pont Alexandre III (beau point photo), puis le long de la Seine jusqu'au pont de l'Alma.<br />14h45 · Croisière Bateaux-Mouches au pont de l'Alma (1h10). 17 € en ligne, 20 € au guichet. D'avril à octobre, un départ toutes les 30 min ; pas d'horaire à réserver, le billet vaut pour tous les départs de la journée. Vérifié le 07/11/2026.<br />16h30 · Option A : Montmartre (métro jusqu'à Abbesses, environ 30 min avec un changement). Option B : si fatigue, les jardins du Trocadéro, à une dizaine de minutes à pied de l'embarcadère, pour la vue sur la tour Eiffel.
+> 9h · Musée du Louvre. 22 €, 32 € pour les visiteurs hors Espace économique européen, gratuit pour les moins de 18 ans. Créneau horaire à réserver sur le site officiel du Louvre, y compris pour les entrées gratuites. Fermé le mardi. Tarifs et conditions vérifiés le 07/11/2026. Comptez 2h30 à 3h. Entrez par le Carrousel du Louvre, souvent plus calme que la Pyramide.<br />12h30 · Déjeuner au Palais-Royal, à environ 5 min à pied. Je vous recommande le comptoir de Café Kitsuné sous les arcades, pour un déjeuner léger à emporter dans le jardin.<br />14h · Marche jusqu'au pont Alexandre III (beau point photo), puis le long de la Seine jusqu'au pont de l'Alma.<br />14h45 · Croisière Bateaux-Mouches au pont de l'Alma (1h10). 17 € en ligne, 20 € au guichet. D'avril à octobre, un départ toutes les 30 min ; pas d'horaire à réserver, le billet vaut pour tous les départs de la journée. Vérifié le 07/11/2026.<br />16h30 · Option A : Montmartre (métro jusqu'à Abbesses, environ 30 min avec un changement). Option B : si fatigue, les jardins du Trocadéro, à une dizaine de minutes à pied de l'embarcadère, pour la vue sur la tour Eiffel.
 
 **Pour le planner** (à vérifier avant envoi) : temps de marche du Louvre au Palais-Royal ; horaires de Café Kitsuné ; itinéraire et durée du métro jusqu'à Abbesses ; temps de marche du pont Alexandre III au pont de l'Alma et de l'embarcadère aux jardins du Trocadéro.
 
@@ -80,7 +80,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après :**
 
-> Voici le lien de réservation directe pour l'hôtel (en réservant en direct, vous traitez avec l'hôtel lui-même en cas de changement). Si vous avez des questions sur les conditions d'annulation, je peux vous les détailler.
+> Vous pouvez réserver l'hôtel directement sur son propre site (en réservant en direct, vous traitez avec l'hôtel lui-même en cas de changement). Si vous avez des questions sur les conditions d'annulation, je peux vous les détailler.
 
 ---
 
@@ -106,13 +106,17 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Problème :** beaucoup de prospects pensent que le sur-mesure est hors de leur budget. Un pro démystifie en donnant des repères concrets. Le sur-mesure, c'est adapter à un budget, pas vendre du luxe.
 
+**Ce que fait le pro :** une question de budget reçoit toujours une fourchette, présentée comme une estimation, avec ses hypothèses (saison, vols compris ou non, niveau d'hébergement). Les honoraires du planner sont annoncés à part du coût du voyage. La fourchette figure aussi dans la liste pour le planner, pour validation avant envoi au client.
+
 **Avant :**
 
 > Offrez-vous une expérience exclusive et sur-mesure dans les plus beaux palaces de la côte amalfitaine.
 
 **Après (montants illustratifs, à recalculer pour chaque client) :**
 
-> Budget estimé pour votre Amalfi en couple, 8 jours : entre 2 800 € et 4 500 € tout compris selon le niveau d'hébergement. Option 1 (maison d'hôtes) : environ 2 800 €. Option 2 (petit hôtel avec vue) : environ 3 600 €. Je vous détaille les deux dans le programme.
+> Estimation pour votre Amalfi en couple, 8 jours en juin, vols non compris : entre 2 800 € et 4 500 € selon le niveau d'hébergement. Option 1 (maison d'hôtes) : environ 2 800 €. Option 2 (petit hôtel avec vue) : environ 3 600 €. Mes honoraires s'ajoutent à part. Je vous détaille les deux options dans le programme.
+
+**Pour le planner :** fourchette de budget à valider avant envoi (hypothèses : juin, vols non compris, deux niveaux d'hébergement).
 
 ---
 
@@ -160,7 +164,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après :**
 
-> **Jour 2 · Vieille ville et plage**<br />9h · Vieille ville à pied, départ de la place principale.<br />11h · Marché couvert (le matin seulement), à 5 min à pied.<br />13h · Bus pour la plage, arrêt sur la place principale, environ 25 min de trajet. Horaires : lien du réseau de bus.<br />Plan B si pluie : musée municipal, à 2 min de l'arrêt de bus.<br />Liens : plan de la vieille ville, horaires du bus.
+> **Jour 2 · Vieille ville et plage**<br />9h · Vieille ville à pied, départ de la place principale.<br />11h · Marché couvert (le matin seulement), à 5 min à pied.<br />13h · Bus pour la plage, arrêt sur la place principale, environ 25 min de trajet. Horaires sur le site du réseau de bus.<br />Plan B si pluie : musée municipal, à 2 min de l'arrêt de bus.
 
 ---
 
@@ -170,7 +174,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Problème :** une recommandation de TP vaut par sa provenance. Un vécu inventé trompe le client ; un horaire faux se découvre devant une porte fermée. Un texte produit sans vérification se repère vite et coûte la confiance du client.
 
-**Ce que fait le pro :** il cite uniquement les origines que l'utilisateur fournit (visite personnelle, retour d'un client, conseil d'un réceptif) et les indique, car une recommandation dont on connaît l'origine pèse plus. Chaque prix, horaire, jour de fermeture, condition de billet et temps de trajet porte sa source et sa date de vérification. Ta propre mémoire n'est pas une source : un fait dont tu te souviens compte comme non vérifié, même s'il te semble sûr. Dans le livrable client, un fait non vérifié se formule avec prudence (« à environ 15 min à pied », « en général ouvert le matin ») ou se remplace par un lien vers la source officielle ; un prix pour une date future n'est jamais présenté comme définitif. Chaque fait non vérifié va aussi dans la liste « Pour le planner » (voir Format de sortie).
+**Ce que fait le pro :** il cite uniquement les origines que l'utilisateur fournit (visite personnelle, retour d'un client, conseil d'un réceptif) et les indique, car une recommandation dont on connaît l'origine pèse plus. Les faits suivent les règles de la section Sortie : vérifiés et datés, ou formulés avec prudence et listés pour le planner.
 
 **Avant :**
 
@@ -178,7 +182,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après (les notes de l'utilisateur indiquent que la recommandation vient de son réceptif) :**
 
-> Ce restaurant m'a été recommandé par mon réceptif sur place, qui y emmène ses propres clients. Horaires et prix sur son site (lien ci-dessous).
+> Ce restaurant m'a été recommandé par mon réceptif sur place, qui y emmène ses propres clients. Horaires et prix sur son site.
 
 **Pour le planner :** horaires et prix du restaurant non vérifiés.
 
