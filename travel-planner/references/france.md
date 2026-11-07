@@ -8,7 +8,7 @@ Read this file when the planner works in France or with French clients, before w
 - **Selling travel.** Registration (*immatriculation*) in the *registre des opérateurs de voyages et de séjours*, kept by Atout France, is mandatory for anyone who sells or organizes package holidays (*forfaits touristiques*), sells travel services they do not produce themselves, or facilitates linked travel arrangements (*prestations de voyage liées*).
 - **Conditions of registration** (Code du tourisme, art. L211-18): a financial guarantee (*garantie financière*), which reimburses clients' payments and covers repatriation if the operator fails, and professional liability insurance (*assurance responsabilité civile professionnelle*). The registration number, the guarantor and the insurer must appear on the operator's website.
 
-**Consequence for the writing.** Unless the user states they are registered, or that a registered agency carries the sale, the deliverable contains booking links and no booking confirmation. Phrasings such as « réservé », « réservation confirmée », « notre offre », « notre forfait » or « réservez auprès de nous » present the planner as a seller.
+**Consequence for the writing.** Step 1 of `SKILL.md` sets the general rule on who books. In France, a planner can book only if they name their Atout France registration or the *agence de portage* that carries the sale. Without either, treat them as advising only: the deliverable gives booking links and no booking confirmation. Phrasings such as « réservé », « réservation confirmée », « notre offre », « notre forfait » or « réservez auprès de nous » present the planner as a seller.
 
 ## French notions
 

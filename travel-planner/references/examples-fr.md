@@ -8,7 +8,7 @@ Les faits cités dans les exemples (prix, horaires, trajets) ont été vérifié
 
 Ce sont les conventions de France. Quand rien n'indique que le client vit en France et qu'il pourrait être québécois, belge ou suisse, pose la question dans la liste pour le planner : ces marchés ont d'autres usages (vocabulaire, typographie, formules), hors du périmètre de ce fichier.
 
-**Vouvoiement.** Le client est vouvoyé, toujours. La liste pour le planner suit le registre du pro : tutoiement s'il te tutoie, vouvoiement sinon. L'exemple de réservation ci-dessous vouvoie.
+**Vouvoiement.** Le client est vouvoyé, toujours. La liste pour le planner suit le registre du message du pro : s'il te tutoie (« rédige », « fais-moi », « tu peux »), tutoie-le ; s'il te vouvoie, vouvoie-le. L'exemple de réservation ci-dessous tutoie.
 
 **Ouverture et clôture.** « Bonjour Madame Martin, » ou « Bonjour Sophie, » si le planner appelle déjà la cliente par son prénom. Clôture sobre : « Bien à vous, », « Belle journée, », puis le prénom et le nom du planner.
 
@@ -169,7 +169,7 @@ Pour le planner : horaires et prix non vérifiés.
 
 > Pour Marrakech, deux points à garder en tête pour le riad et le vol : les conditions d'annulation de chacun, et l'heure d'arrivée de votre vol, à communiquer au riad pour votre accueil.
 
-Pour le planner : ces réservations sont-elles déjà faites, et par quelle agence ? Si oui, envoyez-moi les numéros de confirmation et je rédige le mail de confirmation.
+Pour le planner : ces réservations sont-elles déjà faites, et par quelle agence ? Si oui, envoie-moi les numéros de confirmation et je rédige le mail de confirmation.
 
 ## Exemple complet
 

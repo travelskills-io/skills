@@ -21,12 +21,12 @@ Establish four things, because each decides what you read and what the deliverab
 
 **The country where the professional works** decides the legal frame: in France, read `references/france.md`.
 
-**The professional's language and register.** The client deliverable is in the client's language; the planner list is in the professional's language and register (in French, "tu" if they use "tu" with you, "vous" otherwise).
+**The professional's language and register,** read in their message. The client deliverable is in the client's language; the planner list is in the professional's language and register. In French, if they write to you with "tu" ("rédige", "fais-moi", "tu peux"), the planner list uses "tu"; if they use "vous", it uses "vous".
 
-**Who books the trip:**
-- **The user books** (they say so, or they work through a host agency, a licence or a registration): write "booked" and "confirmed" as normal when the user gives the booking.
-- **The user advises only** (they say so): the client books with the links or sites provided.
-- **Unknown**: the client text says nothing about who books, and the question goes in the planner list. A text that announces a price "flights included" is not proof either way.
+**Who books the trip,** checked in this order:
+- **The user advises only** (they say so): they do not book, even if the same message says "I booked" or asks you to confirm a booking. The client books with the links or sites provided. In France, `references/france.md` gives the conditions under which a planner may sell.
+- **The user has booked:** they say they made the booking, themselves or through an agency (their own, a host agency), and give at least one detail of it (supplier, dates or reference). "I reserved the Casa Azul through my host agency for March 3 to 6" qualifies; "tell them everything is confirmed" does not. Then "booked" and "confirmed" are normal words. A request to announce or confirm a booking is not a booking.
+- **Unknown:** every other case. The client text says nothing about whether anything is booked, and the question goes in the planner list. A price "flights included" is not proof either way.
 
 Done when the four points are settled and the examples file is read.
 
@@ -76,7 +76,9 @@ Ready to send as it is.
 - It mentions only what exists: a link you can give, or the name of the official site. No "link below" and no "in the Accommodation tab" when that link or tab does not exist.
 - No fact the request did not call for. If a fact is genuinely useful, it goes in the planner list.
 - A fact you have not verified is phrased cautiously ("about a 15-minute walk", "usually open in the morning") and listed for the planner. Your own memory is not a source: a fact recalled from training counts as unverified, however sure it feels.
-- A verified fact carries its source and its check date. A price for a future date is never presented as final.
+- A verified fact carries its source and its check date.
+- A price for a future date (ticket, entry, fare) never appears as a figure in the client text, even with "about": the client text names the official site, and the figures go in the planner list. The one exception is a budget estimate, as step 2 describes. Any total is recalculated from its parts before it is written anywhere.
+- A choice the planner has not made (a hotel, a restaurant, a route) is written as a suggestion ("I'd suggest a hotel near the station"), never as done.
 - An origin of a recommendation (personal visit, client feedback, a DMC's advice) appears only when the user provided it.
 - No brochure clichés, no sales pressure, no exclusive luxury vocabulary: the phrase lists are in the examples file.
 - It follows the conventions of the client's language and market (currency, times, dates, typography, openings and closings): see the examples file. It reads as written by a native professional, never as a translation.
@@ -95,7 +97,7 @@ A separate list, after the deliverable:
 
 Reread the client deliverable one line at a time.
 
-Done when every figure, duration, distance, price, hour, day and ticket condition in it, even a vague one ("a few minutes"), has either a dated source or a line in the planner list; when it contains no bracket and no announced link that is missing; and when no sentence says "booked" or "confirmed" unless step 1 allows it.
+Done when every figure, duration, distance, price, hour, day and ticket condition in it, even a vague one ("a few minutes", "a short walk", "within walking distance", "à pied de", "à deux pas"), has either a dated source or a line in the planner list; when it contains no bracket and no announced link that is missing; and when no sentence says "booked" or "confirmed" unless step 1 allows it.
 
 ## References
 
