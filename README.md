@@ -4,8 +4,7 @@ Open-source Agent Skills for travel and tourism professionals.
 
 Each skill targets one job and encodes how that job is actually done: the
 choices an experienced pro makes, the phrasings they avoid, the practical
-details they never forget. Every pattern comes from an identified practitioner
-or trade source, cited in the skill itself.
+details they never forget. Every pattern draws on identified trade sources.
 
 The skills follow the open [Agent Skills](https://agentskills.io) standard.
 
