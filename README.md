@@ -24,4 +24,4 @@ Built in public. The first skill, `travel-planner`, is in progress.
 
 ---
 
-[travelskills.io](https://travelskills.io) · Created by Nicolas François
+[travelskills.io](https://travelskills.io) · Nicolas François, Founder, TravelSkills
