@@ -2,7 +2,7 @@
 
 Read this file when the deliverable is in French. It holds the French version of every pattern (warning signs, before and after) and the full French example. The rules and the process stay those of `SKILL.md`; France-specific legal notions are in `france.md`.
 
-Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifiés le 07/11/2026. Ils illustrent la forme attendue : revérifie-les avant de les réutiliser dans un livrable.
+Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifiés le 07/11/2026, sauf ceux que liste un encadré « Pour le planner ». Ils illustrent la forme attendue : revérifie-les avant de les réutiliser dans un livrable.
 
 ## Mots et formulations à proscrire
 
@@ -62,7 +62,9 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après :**
 
-> 9h · Musée du Louvre. 22 €, 32 € pour les visiteurs hors Espace économique européen, gratuit pour les moins de 18 ans. Créneau horaire à réserver en ligne, y compris pour les entrées gratuites (lien ci-dessous). Fermé le mardi. Tarifs et conditions vérifiés le 07/11/2026. Comptez 2h30 à 3h. Entrez par le Carrousel du Louvre, souvent plus calme que la Pyramide.<br />12h30 · Déjeuner au Palais-Royal, à 5 min à pied. Je vous recommande le comptoir de Café Kitsuné sous les arcades, pour un déjeuner léger à emporter dans le jardin.<br />14h · Marche jusqu'au pont Alexandre III (beau point photo), puis le long de la Seine jusqu'au pont de l'Alma.<br />14h45 · Croisière Bateaux-Mouches au pont de l'Alma (1h10). 17 € en ligne, 20 € au guichet. D'avril à octobre, un départ toutes les 30 min ; pas d'horaire à réserver, le billet vaut pour tous les départs de la journée. Vérifié le 07/11/2026.<br />16h30 · Option A : Montmartre (métro jusqu'à Abbesses, environ 30 min avec un changement). Option B : si fatigue, les jardins du Trocadéro, à 10 min à pied de l'embarcadère, pour la vue sur la tour Eiffel.
+> 9h · Musée du Louvre. 22 €, 32 € pour les visiteurs hors Espace économique européen, gratuit pour les moins de 18 ans. Créneau horaire à réserver en ligne, y compris pour les entrées gratuites (lien ci-dessous). Fermé le mardi. Tarifs et conditions vérifiés le 07/11/2026. Comptez 2h30 à 3h. Entrez par le Carrousel du Louvre, souvent plus calme que la Pyramide.<br />12h30 · Déjeuner au Palais-Royal, à environ 5 min à pied. Je vous recommande le comptoir de Café Kitsuné sous les arcades, pour un déjeuner léger à emporter dans le jardin.<br />14h · Marche jusqu'au pont Alexandre III (beau point photo), puis le long de la Seine jusqu'au pont de l'Alma.<br />14h45 · Croisière Bateaux-Mouches au pont de l'Alma (1h10). 17 € en ligne, 20 € au guichet. D'avril à octobre, un départ toutes les 30 min ; pas d'horaire à réserver, le billet vaut pour tous les départs de la journée. Vérifié le 07/11/2026.<br />16h30 · Option A : Montmartre (métro jusqu'à Abbesses, environ 30 min avec un changement). Option B : si fatigue, les jardins du Trocadéro, à une dizaine de minutes à pied de l'embarcadère, pour la vue sur la tour Eiffel.
+
+**Pour le planner** (à vérifier avant envoi) : temps de marche du Louvre au Palais-Royal ; horaires de Café Kitsuné ; itinéraire et durée du métro jusqu'à Abbesses ; temps de marche du pont Alexandre III au pont de l'Alma et de l'embarcadère aux jardins du Trocadéro.
 
 ---
 
@@ -78,7 +80,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après :**
 
-> Voici le lien de réservation directe pour l'hôtel (vous bénéficiez du meilleur tarif en réservant en direct). Si vous avez des questions sur les conditions d'annulation, je peux vous les détailler.
+> Voici le lien de réservation directe pour l'hôtel (en réservant en direct, vous traitez avec l'hôtel lui-même en cas de changement). Si vous avez des questions sur les conditions d'annulation, je peux vous les détailler.
 
 ---
 
@@ -168,7 +170,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Problème :** une recommandation de TP vaut par sa provenance. Un vécu inventé trompe le client ; un horaire faux se découvre devant une porte fermée. Un texte produit sans vérification se repère vite et coûte la confiance du client.
 
-**Ce que fait le pro :** il cite uniquement les origines que l'utilisateur fournit (visite personnelle, retour d'un client, conseil d'un réceptif) et les indique, car une recommandation dont on connaît l'origine pèse plus. Chaque prix, horaire ou jour de fermeture porte sa source et sa date de vérification. Sans source, il écrit un marqueur « [À vérifier : …] » à la place du chiffre, pour que le planner le complète avant envoi.
+**Ce que fait le pro :** il cite uniquement les origines que l'utilisateur fournit (visite personnelle, retour d'un client, conseil d'un réceptif) et les indique, car une recommandation dont on connaît l'origine pèse plus. Chaque prix, horaire, jour de fermeture, condition de billet et temps de trajet porte sa source et sa date de vérification. Ta propre mémoire n'est pas une source : un fait dont tu te souviens compte comme non vérifié, même s'il te semble sûr. Dans le livrable client, un fait non vérifié se formule avec prudence (« à environ 15 min à pied », « en général ouvert le matin ») ou se remplace par un lien vers la source officielle ; un prix pour une date future n'est jamais présenté comme définitif. Chaque fait non vérifié va aussi dans la liste « Pour le planner » (voir Format de sortie).
 
 **Avant :**
 
@@ -176,7 +178,9 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après (les notes de l'utilisateur indiquent que la recommandation vient de son réceptif) :**
 
-> Ce restaurant m'a été recommandé par mon réceptif sur place, qui y emmène ses propres clients. [À vérifier avant envoi : horaires et prix sur le site du restaurant.]
+> Ce restaurant m'a été recommandé par mon réceptif sur place, qui y emmène ses propres clients. Horaires et prix sur son site (lien ci-dessous).
+
+**Pour le planner :** horaires et prix du restaurant non vérifiés.
 
 ---
 
@@ -188,7 +192,7 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 
 **Après (professionnel) :**
 
-> Jour 3 · Knossos et côte nord. Départ 8h30 de l'hôtel (25 min en voiture). Le site ouvre à 8h en été : en arrivant tôt, vous visitez à la fraîche. Comptez 1h30 de visite, pas plus avec les enfants. Entrée 20 € par adulte, gratuite pour les moins de 18 ans ; billets sur hhticket.gr, le site officiel (tarif et horaires vérifiés le 07/11/2026). En sortant, arrêt au village d'Archanes (10 min en voiture) pour un encas sur la place. Après-midi : plage d'Agia Pelagia. Plan B si le vent se lève : le Musée archéologique d'Héraklion (30 min), où sont exposées les fresques originales de Knossos ; les enfants y verront en vrai ce qu'ils ont aperçu le matin.
+> Jour 3 · Knossos et côte nord. Départ 8h30 de l'hôtel (environ 25 min en voiture). Le site ouvre à 8h en été : en arrivant tôt, vous visitez à la fraîche. Comptez 1h30 de visite, pas plus avec les enfants. Entrée 20 € par adulte, gratuite pour les moins de 18 ans ; billets sur hhticket.gr, le site officiel (tarif et horaires vérifiés le 07/11/2026). En sortant, arrêt au village d'Archanes (10 min en voiture) pour un encas sur la place. Après-midi : plage d'Agia Pelagia. Plan B si le vent se lève : le Musée archéologique d'Héraklion (environ 30 min en voiture), où sont exposées les fresques originales de Knossos ; les enfants y verront en vrai ce qu'ils ont aperçu le matin.
 
 **Corrections apportées :**
 
@@ -198,3 +202,5 @@ Les faits cités dans ces exemples (prix, horaires, trajets) ont été vérifié
 - Ajout d'une alternative météo (plan B), reliée à la visite du matin.
 - Personnalisation au profil (enfants pris en compte dans la durée de visite et le plan B).
 - Remplacement du « convient à tous » par des recommandations ciblées.
+
+**Pour le planner :** temps de route de l'hôtel à Knossos, à Agia Pelagia et au musée d'Héraklion ; horaires du musée ; horaires de Knossos si le voyage a lieu hors avril-octobre.

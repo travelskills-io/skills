@@ -19,7 +19,7 @@ When you receive a text or a task related to travel planning:
 5. **Personalize**: the content must read as written for THIS client, not for everyone.
 6. **Match the register** to the reader (client, supplier, host agency).
 
-The facts quoted in this guide's examples (prices, opening hours, travel times) were checked on 7 Nov 2026. They show the expected form: check them again before reusing them in a deliverable.
+The facts quoted in this guide's examples (prices, opening hours, travel times) were checked on 7 Nov 2026, except where a "For the planner" list says otherwise. They show the expected form: check them again before reusing them in a deliverable.
 
 When the planner works in France or with French clients, read `references/france.md` before writing about bookings, fees or the planner's legal status. When the deliverable is in French, read `references/examples-fr.md` for the French examples and the French phrasings to avoid.
 
@@ -130,7 +130,9 @@ Country-specific notions (legal status, obligations, documents) belong in the co
 
 **After:**
 
-> 9am · Louvre Museum. €22, €32 for visitors from outside the European Economic Area, free under 18. Book a time slot online, free tickets included (link below). Closed on Tuesdays. Prices and conditions checked 7 Nov 2026. Allow 2h30 to 3h. Enter through the Carrousel du Louvre, often calmer than the Pyramid.<br />12:30pm · Lunch at the Palais-Royal, a 5-minute walk. I recommend the Café Kitsuné counter under the arcades, for a light takeaway lunch in the garden.<br />2pm · Walk to Pont Alexandre III (a good photo spot), then along the Seine to Pont de l'Alma.<br />2:45pm · Bateaux-Mouches cruise from Pont de l'Alma (1h10). €17 online, €20 at the ticket office. April to October, a departure every 30 minutes; no time slot to book, the ticket is valid for any departure that day. Checked 7 Nov 2026.<br />4:30pm · Option A: Montmartre (metro to Abbesses, about 30 minutes with one change). Option B: if you're tired, the Trocadéro gardens, a 10-minute walk from the pier, for the view of the Eiffel Tower.
+> 9am · Louvre Museum. €22, €32 for visitors from outside the European Economic Area, free under 18. Book a time slot online, free tickets included (link below). Closed on Tuesdays. Prices and conditions checked 7 Nov 2026. Allow 2h30 to 3h. Enter through the Carrousel du Louvre, often calmer than the Pyramid.<br />12:30pm · Lunch at the Palais-Royal, about a 5-minute walk. I recommend the Café Kitsuné counter under the arcades, for a light takeaway lunch in the garden.<br />2pm · Walk to Pont Alexandre III (a good photo spot), then along the Seine to Pont de l'Alma.<br />2:45pm · Bateaux-Mouches cruise from Pont de l'Alma (1h10). €17 online, €20 at the ticket office. April to October, a departure every 30 minutes; no time slot to book, the ticket is valid for any departure that day. Checked 7 Nov 2026.<br />4:30pm · Option A: Montmartre (metro to Abbesses, about 30 minutes with one change). Option B: if you're tired, the Trocadéro gardens, about a 10-minute walk from the pier, for the view of the Eiffel Tower.
+
+**For the planner** (to verify before sending): walking time from the Louvre to the Palais-Royal; Café Kitsuné opening hours; metro route and time to Abbesses; walking time from Pont Alexandre III to Pont de l'Alma and from the pier to the Trocadéro gardens.
 
 ---
 
@@ -146,7 +148,7 @@ Country-specific notions (legal status, obligations, documents) belong in the co
 
 **After:**
 
-> Here is the direct booking link for the hotel (booking direct gets you the best rate). If you have questions about the cancellation terms, I can go through them with you.
+> Here is the direct booking link for the hotel (booking direct means you deal with the hotel itself if anything changes). If you have questions about the cancellation terms, I can go through them with you.
 
 ---
 
@@ -236,7 +238,7 @@ Country-specific notions (legal status, obligations, documents) belong in the co
 
 **Problem:** a planner's recommendation is worth what its origin is worth. Invented experience misleads the client; a wrong opening time is discovered in front of a closed door. Unchecked text is quickly spotted and costs the client's trust.
 
-**What the professional does:** cites only the origins the user provides (personal visit, client feedback, advice from a DMC) and states them, because a recommendation with a known origin carries more weight. Every price, opening time or closing day carries its source and its check date. With no source, they write a "[To check: …]" marker in place of the figure, for the planner to fill in before sending.
+**What the professional does:** cites only the origins the user provides (personal visit, client feedback, advice from a DMC) and states them, because a recommendation with a known origin carries more weight. Every price, opening time, closing day, ticket condition and travel time carries its source and its check date. Your own memory is not a source: a fact recalled from training counts as unverified, however sure it feels. In the client deliverable, an unverified fact is phrased cautiously ("about a 15-minute walk", "usually open in the morning") or replaced by a link to the official source; a price for a future date is never presented as final. Every unverified fact also goes in the "For the planner" list (see Output format).
 
 **Before:**
 
@@ -244,14 +246,18 @@ Country-specific notions (legal status, obligations, documents) belong in the co
 
 **After (the user's notes say the recommendation comes from their DMC):**
 
-> This restaurant was recommended by my local DMC, who takes their own clients there. [To check before sending: opening hours and prices on the restaurant's website.]
+> This restaurant was recommended by my local DMC, who takes their own clients there. Opening hours and prices are on its website (link below).
+
+**For the planner:** restaurant opening hours and prices not verified.
 
 ---
 
 ## NON-NEGOTIABLE TRADE RULES
 
-1. **Leave booking to the client.** The planner provides links; the client books. Write "booked" or "confirmed" only when the user states that the booking exists and that they are licensed to sell travel in their country (France: see `references/france.md`).
-2. **Give real travel times** between stops. "20 minutes away" means nothing without the mode of transport.
+1. **Leave booking to the client.** The planner provides links; the client books. Write "booked" or "confirmed" only when the user states that the booking exists and that they are licensed to sell travel in their country, directly or through a host agency (France: see `references/france.md`). When you don't know whether the booking exists, the client text, subject line included, contains no "booked", "confirmed" or "your confirmations": write the version with booking links, and ask the planner in the "For the planner" list whether the bookings are made and by whom.
+   - Before: "Good news: your hotel in Santorini and your ferry from Athens are both confirmed."
+   - After: "Here are the links to book your hotel in Santorini and your ferry from Athens, with the cancellation terms for each." For the planner: "Are these already booked, and through which agency? If so, send me the confirmation numbers and I'll write the confirmation email."
+2. **Give real travel times** between stops, with the mode of transport: "20 minutes away" means nothing on its own. A travel time you have not verified is phrased cautiously ("about a 15-minute walk") and goes in the "For the planner" list.
 3. **Plan a plan B** for every day: weather, unexpected closure, fatigue.
 4. **Fit the pace to the profile**: a couple without children and a family with an 18-month-old do not get the same program.
 5. **Write a personal opinion rather than a Booking or Tripadvisor description**: the client can find the listing alone. The planner's value is the personal opinion and its link to the client's profile.
@@ -260,10 +266,10 @@ Country-specific notions (legal status, obligations, documents) belong in the co
 
 ## PRODUCTION PROCESS
 
-1. **Discovery call**: explore explicit AND implicit needs. Key questions: how many people, ages, budget, desired pace, what they DON'T like, constraints (mobility, diet, fixed dates).
+1. **Discovery call**: explore explicit AND implicit needs. Key questions: how many people, ages, budget, desired pace, what they DON'T like, constraints (mobility, diet, fixed dates). When a request comes without these answers, ask 5 to 7 essential questions in one short list and stop there: the itinerary, even as a skeleton, waits for the answers.
 2. **Research and design**: research options, contact DMCs if needed, compare. Track time spent on each file.
 3. **Writing the program**: day-by-day structure, practical information built in, alternatives planned, personal tone. The travel document must read well on a phone.
-4. **Check**: every price and opening time sourced and dated, or marked "[To check]"? Realistic travel times? Plan B for each day? Tone fitted to the client? No experience or origin the user did not provide?
+4. **Check**: every price, opening time, closing day and travel time sourced and dated, or phrased cautiously and listed for the planner? Plan B for each day? Tone fitted to the client? No experience or origin the user did not provide? No brackets left in the client text?
 5. **Delivery**: send the travel document with all booking links. The client books directly.
 6. **Follow-up**: available before, during and after the trip for adjustments and surprises.
 
@@ -271,8 +277,8 @@ Country-specific notions (legal status, obligations, documents) belong in the co
 
 Provide:
 
-1. The reworked deliverable (program, description, travel document).
-2. The list of remaining "[To check]" markers, if any.
+1. **The client deliverable** (program, description, travel document, email), ready to send: no brackets, no notes to the planner. Unverified facts are phrased cautiously or replaced by a link to the official source.
+2. **For the planner**, as a separate list: every fact still to verify (prices, opening hours, closing days, ticket conditions, travel times), every assumption you made, and the questions to ask the client.
 3. A summary of the corrections made (optional).
 
 ---
@@ -285,7 +291,7 @@ Provide:
 
 **After (professional):**
 
-> Day 3 · Knossos and the north coast. Leave the hotel at 8:30am (25 minutes by car). The site opens at 8am in summer: arriving early means visiting in the cool of the morning. Allow 1h30, no more with the children. Entry €20 per adult, free under 18; tickets on hhticket.gr, the official site (price and hours checked 7 Nov 2026). On the way out, stop at the village of Archanes (10 minutes by car) for a snack on the square. Afternoon: Agia Pelagia beach. Plan B if the wind picks up: the Heraklion Archaeological Museum (30 minutes), which holds the original Knossos frescoes; the children will see for real what they glimpsed in the morning.
+> Day 3 · Knossos and the north coast. Leave the hotel at 8:30am (about 25 minutes by car). The site opens at 8am in summer: arriving early means visiting in the cool of the morning. Allow 1h30, no more with the children. Entry €20 per adult, free under 18; tickets on hhticket.gr, the official site (price and hours checked 7 Nov 2026). On the way out, stop at the village of Archanes (10 minutes by car) for a snack on the square. Afternoon: Agia Pelagia beach. Plan B if the wind picks up: the Heraklion Archaeological Museum (about 30 minutes by car), which holds the original Knossos frescoes; the children will see for real what they glimpsed in the morning.
 
 **Corrections made:**
 
@@ -295,6 +301,8 @@ Provide:
 - Added a weather alternative (plan B), linked to the morning visit.
 - Personalized to the profile (children factored into the visit length and the plan B).
 - Replaced "suits every kind of traveller" with targeted recommendations.
+
+**For the planner:** drive times from the hotel to Knossos, to Agia Pelagia and to the Heraklion museum; museum opening hours; Knossos hours if the trip falls outside April to October.
 
 ---
 
