@@ -52,9 +52,11 @@ Before:
 
 After (the planner's notes say the clients want to walk from the door and leave the car parked):
 
-> I chose this cottage for one reason: you told me you wanted to park the car and walk from the door.
+To the planner, first: the source gives no facts about the cottage, so here is a short holding text.
 
-For the planner: the source gives no facts. Before sending, I need the walks that start at the cottage (distance and difficulty), the nearest store, and how to get there without a car.
+> You told me you want to park the car when you arrive and walk from the door, and that's what I'm checking this cottage against. I'm confirming which walks start right from the cottage, how long they are and how hard, and how far the nearest store is. Once I have those answers, you'll get your travel document with each walk laid out, plus how to reach the cottage without a car.
+
+For the planner: walks that start at the cottage (distance and difficulty), nearest store, access without a car.
 
 ## 3. An itinerary with no margins or alternatives
 
@@ -64,13 +66,13 @@ For the planner: the source gives no facts. Before sending, I need the walks tha
 
 **After:**
 
-> **9 a.m. · The Louvre.** €22 per adult (€32 for visitors from outside the European Economic Area, so €32 for you), free under 18. Book a time slot on the Louvre's official site. It's required, even for free tickets. Closed Tuesdays. Prices and rules checked Nov 7, 2026. Plan on 2 1/2 to 3 hours.
+> **9 a.m. · The Louvre.** €22 per adult (€32 for visitors from outside the European Economic Area, so €32 for you), free under 18. Book a time slot on the Louvre's official site. It's required, even for free tickets. Closed Tuesdays. Prices and rules checked Nov 7, 2026. Plan on about 2 1/2 to 3 hours.
 > **12:30 p.m. · Lunch at the Palais-Royal,** about a 5-minute walk. I'd go to Café Kitsuné and eat in the garden.
 > **2 p.m. · Walk** to Pont Alexandre III for photos, then along the Seine to Pont de l'Alma.
 > **2:45 p.m. · Bateaux-Mouches cruise** from Pont de l'Alma, 1 hour 10 minutes. €17 online, €20 at the ticket office. From April to October, a boat leaves every 30 minutes, and your ticket works for any departure that day. Checked Nov 7, 2026.
 > **4:30 p.m. · Option A:** Montmartre, by metro to Abbesses, about 30 minutes with one change. **Option B,** if you're tired: the Trocadéro gardens, about a 10-minute walk from the dock, for the view of the Eiffel Tower.
 
-For the planner: not verified are the walk from the Louvre to the Palais-Royal, Café Kitsuné's location in the Palais-Royal, whether it is takeaway, and its hours, the metro route to Abbesses, and the walks along the Seine and to the Trocadéro gardens.
+For the planner: not verified are the visit time at the Louvre, the walk from the Louvre to the Palais-Royal, Café Kitsuné's location in the Palais-Royal, whether it is takeaway, and its hours, the metro route to Abbesses, and the walks along the Seine and to the Trocadéro gardens.
 
 ## 4. Sales pressure instead of advice
 
@@ -172,9 +174,9 @@ For the planner: are the hotel and the ferry already booked, and through your ho
 
 > **Day 3 · Knossos and the north coast**
 > 8:30 a.m. · Leave the hotel, about 25 minutes by car.
-> The site opens at 8 a.m. in summer, so you'll walk it before the heat. Plan on 1 1/2 hours; with the kids, that's plenty. €20 per adult, free under 18. Buy tickets on hhticket.gr, the official site (price and hours checked Nov 7, 2026).
+> The site opens at 8 a.m. in summer, so you'll walk it before the heat. Plan on about 1 1/2 hours; with the kids, that's plenty. €20 per adult, free under 18. Buy tickets on hhticket.gr, the official site (price and hours checked Nov 7, 2026).
 > On the way back, stop in Archanes, 10 minutes by car, for a snack on the square.
 > Afternoon · Agia Pelagia beach.
 > Plan B if the wind picks up: the Heraklion Archaeological Museum, about 30 minutes by car, where the original Knossos frescoes are. The kids get to see the real thing after the morning.
 
-For the planner: not verified are the drives from the hotel to Knossos, to Agia Pelagia and to the museum, the museum's hours, and Knossos's hours if the trip falls outside April to October.
+For the planner: not verified are the visit time at Knossos, the drives from the hotel to Knossos, to Agia Pelagia and to the museum, the museum's hours, and Knossos's hours if the trip falls outside April to October.

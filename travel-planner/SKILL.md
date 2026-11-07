@@ -34,7 +34,7 @@ Done when the four points are settled and the examples file is read.
 
 Pick the task that matches the request. A request can combine two (a program plus the email that carries it): apply both blocks.
 
-**Scoping a vague request.** When you know nothing about the travellers beyond their number and no draft or text is provided ("10 days in Japan for a couple"), ask 5 to 7 essential questions in one short list and stop: dates or season, budget, pace, interests, what they dislike, first visit or not, constraints (mobility, diet, fixed dates). In every other case, write the deliverable now, state your assumptions, and keep at most 2 questions for the planner list.
+**Scoping a vague request.** When you know nothing about the travellers beyond their number and no draft or text is provided ("10 days in Japan for a couple"), open with what you will deliver once the answers are in, then ask 5 to 7 essential questions in one short list, ordered by how much they change the trip, and stop: dates or season, budget, pace, interests, what they dislike, first visit or not, constraints (mobility, diet, fixed dates). A question about the client's market (France, Quebec, Belgium, Switzerland) goes on a separate line after the list. In every other case, write the deliverable now, state your assumptions, and keep at most 2 questions for the planner list.
 
 **Writing from a brief** (program, proposal, travel document).
 - Tie each choice to something the client said; a list of services with no reason attached reads as a catalogue.
@@ -46,7 +46,7 @@ Pick the task that matches the request. A request can combine two (a program plu
 **Rewriting a text** (supplier copy, a draft by the planner). Read `references/patterns.md` first, in addition to the examples file.
 - Keep only what the source says. No deductions ("perched above" does not mean "away from the village"), and no checks attributed to the planner ("I looked at…") unless the user says they made them.
 - The client's wishes that the text does not address become questions in the planner list.
-- When the source holds no facts, write a short text built on what the client told the planner, and promise nothing that does not exist.
+- When the source holds no facts, say so to the planner in one line before the deliverable, then write a client text of 3 to 5 sentences: why this choice, what the stay is built around, what the client will receive and when. Never imply that the place meets the client's wish, and promise nothing that does not exist.
 - Write a personal recommendation tied to the client, never a copy of a listing.
 
 **Reviewing a text.** Read `references/patterns.md` first, in addition to the examples file. Name each problem by its pattern, quote the passage, then give the rewritten version.
@@ -66,7 +66,7 @@ Done when every rule of the matching block is applied.
 
 ## Step 3 · Write the two parts of the answer
 
-Every answer has two parts, in this order, plus an optional summary of the corrections made.
+Every answer has two parts, in this order, plus an optional summary of the corrections made. The one thing allowed before the deliverable is the single line to the planner when the source holds no facts (step 2).
 
 ### The client deliverable
 
@@ -74,10 +74,11 @@ Ready to send as it is.
 
 - No brackets, no placeholders, no notes to the planner.
 - It mentions only what exists: a link you can give, or the name of the official site. No "link below" and no "in the Accommodation tab" when that link or tab does not exist.
-- No fact the request did not call for. If a fact is genuinely useful, it goes in the planner list.
-- A fact you have not verified is phrased cautiously ("about a 15-minute walk", "usually open in the morning") and listed for the planner. Your own memory is not a source: a fact recalled from training counts as unverified, however sure it feels.
+- No fact the request did not call for and the client does not need.
 - A verified fact carries its source and its check date.
-- A price for a future date (ticket, entry, fare) never appears as a figure in the client text, even with "about": the client text names the official site, and the figures go in the planner list. The one exception is a budget estimate, as step 2 describes. Any total is recalculated from its parts before it is written anywhere.
+- A useful detail you have not verified (duration, distance, altitude, visit time, travel time) stays in the client text in a cautious form ("about a 15-minute walk", "about 2 hours", "environ 3 400 m") and is always listed for the planner. Your own memory is not a source: a fact recalled from training counts as unverified, however sure it feels.
+- Never in the client text, unless verified with a dated source: a price for a future date (ticket, entry, fare; the one exception is a budget estimate, as step 2 describes); a ticket condition (exchange, refund, rebooking, moving to another day); an availability claim ("sells out", "fully booked on Saturdays"). Name the official site instead, and put the point in the planner list. Any total is recalculated from its parts before it is written anywhere.
+- Never in the client text at all: a booking that step 1 does not establish, or an experience the user did not provide.
 - A choice the planner has not made (a hotel, a restaurant, a route) is written as a suggestion ("I'd suggest a hotel near the station"), never as done.
 - An origin of a recommendation (personal visit, client feedback, a DMC's advice) appears only when the user provided it.
 - No brochure clichés, no sales pressure, no exclusive luxury vocabulary: the phrase lists are in the examples file.
@@ -95,9 +96,9 @@ A separate list, after the deliverable:
 
 ## Step 4 · Check line by line
 
-Reread the client deliverable one line at a time.
+Reread the client deliverable one line at a time, plan B lines included: moving a ticket, a train or an excursion to another day is a ticket condition, never free or always possible.
 
-Done when every figure, duration, distance, price, hour, day and ticket condition in it, even a vague one ("a few minutes", "a short walk", "within walking distance", "à pied de", "à deux pas"), has either a dated source or a line in the planner list; when it contains no bracket and no announced link that is missing; and when no sentence says "booked" or "confirmed" unless step 1 allows it.
+Done when every figure, duration, distance, price, hour, day and ticket condition in it, even a vague one ("a few minutes", "a short walk", "within walking distance", "à pied de", "à deux pas"), has either a dated source or a line in the planner list; when nothing from the "never in the client text" lists of step 3 remains; when it contains no bracket and no announced link that is missing; and when no sentence says "booked" or "confirmed" unless step 1 allows it.
 
 ## References
 

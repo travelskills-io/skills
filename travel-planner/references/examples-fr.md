@@ -15,7 +15,7 @@ Ce sont les conventions de France. Quand rien n'indique que le client vit en Fra
 **Ton.** Plus sobre qu'en anglais : peu de points d'exclamation, pas d'enthousiasme de commande, des phrases qui informent. La chaleur passe par l'attention aux détails du client, pas par les adjectifs.
 
 **Typographie.**
-- Montants : « 22 € », « 2 800 € », le symbole après le nombre, séparé par une espace insécable.
+- Montants : « 22 € », « 2 800 € », le symbole après le nombre, séparé par une espace insécable.
 - Heures : « 9 h », « 14 h 30 », « midi ».
 - Dates : jour puis mois, « le 12 juin », « mardi 12 juin ».
 - Guillemets français « … », avec espaces insécables à l'intérieur.
@@ -39,7 +39,7 @@ Ce sont les conventions de France. Quand rien n'indique que le client vit en Fra
 
 **Après :**
 
-> **Jour 1 · Tokyo.** Arrivée à Narita. Narita Express jusqu'à Shinjuku : environ 1 h 30, 3 330 ¥ (tarif vérifié le 7 novembre 2026). Installation à l'hôtel Gracery. Soirée libre : je vous propose Omoide Yokocho, à 5 ou 10 min à pied, pour des brochettes dans l'un de ses petits comptoirs. Une première soirée simple, après le vol.
+> **Jour 1 · Tokyo.** Arrivée à Narita. Narita Express jusqu'à Shinjuku : environ 1 h 30, 3 330 ¥ (tarif vérifié le 7 novembre 2026). Installation à l'hôtel Gracery. Soirée libre : je vous propose Omoide Yokocho, à 5 ou 10 min à pied, pour des brochettes dans l'un de ses petits comptoirs. Une première soirée simple, après le vol.
 
 Pour le planner : trajet à pied de l'hôtel à Omoide Yokocho non vérifié.
 
@@ -61,9 +61,11 @@ Pour le planner : trajet à pied de l'hôtel à Omoide Yokocho non vérifié.
 
 **Après (les notes du planner indiquent que les clients veulent se baigner chaque jour sans reprendre la voiture) :**
 
-> J'ai choisi cette maison d'hôtes pour une raison : vous m'avez dit vouloir vous baigner chaque jour sans reprendre la voiture.
+Au planner, d'abord : la source ne donne aucun fait sur la maison d'hôtes, voici donc un texte d'attente court.
 
-Pour le planner : la source ne donne aucun fait. À obtenir avant envoi : plage la plus proche et temps d'accès à pied, commerces, accès sans voiture.
+> Vous m'avez dit vouloir vous baigner chaque jour sans reprendre la voiture : c'est sur ce critère que je vérifie cette maison d'hôtes. Je fais confirmer la plage la plus proche, le temps pour s'y rendre à pied et les commerces accessibles sans voiture. Dès que j'ai ces réponses, vous recevrez le carnet avec chaque journée détaillée et l'accès à la maison sans voiture.
+
+Pour le planner : plage la plus proche et temps d'accès à pied, commerces, accès sans voiture.
 
 ## 3. Itinéraire sans marges ni alternatives
 
@@ -73,13 +75,13 @@ Pour le planner : la source ne donne aucun fait. À obtenir avant envoi : plag
 
 **Après :**
 
-> **9 h · Musée du Louvre.** 22 €, gratuit pour les moins de 18 ans. Créneau horaire à réserver sur le site officiel du Louvre, y compris pour les entrées gratuites. Fermé le mardi. Tarifs et conditions vérifiés le 7 novembre 2026. Comptez 2 h 30 à 3 h.
+> **9 h · Musée du Louvre.** 22 €, gratuit pour les moins de 18 ans. Créneau horaire à réserver sur le site officiel du Louvre, y compris pour les entrées gratuites. Fermé le mardi. Tarifs et conditions vérifiés le 7 novembre 2026. Comptez environ 2 h 30 à 3 h.
 > **12 h 30 · Déjeuner au Palais-Royal,** à environ 5 min à pied. Je vous propose Café Kitsuné, pour un déjeuner léger dans le jardin.
 > **14 h · Promenade** jusqu'au pont Alexandre III, puis le long de la Seine jusqu'au pont de l'Alma.
-> **14 h 45 · Croisière Bateaux-Mouches** au pont de l'Alma, 1 h 10. 17 € en ligne, 20 € au guichet. D'avril à octobre, un départ toutes les 30 min ; le billet vaut pour tous les départs de la journée. Vérifié le 7 novembre 2026.
+> **14 h 45 · Croisière Bateaux-Mouches** au pont de l'Alma, 1 h 10. 17 € en ligne, 20 € au guichet. D'avril à octobre, un départ toutes les 30 min ; le billet vaut pour tous les départs de la journée. Vérifié le 7 novembre 2026.
 > **16 h 30 · Option A :** Montmartre, en métro jusqu'à Abbesses, environ 30 min avec un changement. **Option B,** si la fatigue se fait sentir : les jardins du Trocadéro, à une dizaine de minutes à pied de l'embarcadère, pour la vue sur la tour Eiffel.
 
-Pour le planner : non vérifiés, le trajet à pied du Louvre au Palais-Royal, l'emplacement de Café Kitsuné au Palais-Royal, la vente à emporter, ses horaires, le trajet en métro jusqu'à Abbesses, les marches le long de la Seine et jusqu'au Trocadéro.
+Pour le planner : non vérifiés, la durée de visite du Louvre, le trajet à pied du Louvre au Palais-Royal, l'emplacement de Café Kitsuné au Palais-Royal, la vente à emporter, ses horaires, le trajet en métro jusqu'à Abbesses, les marches le long de la Seine et jusqu'au Trocadéro.
 
 ## 4. Vocabulaire de vente au lieu du conseil
 
@@ -109,7 +111,7 @@ Pour le planner : non vérifiés, le trajet à pied du Louvre au Palais-Royal, 
 
 **Après (montants illustratifs) :**
 
-> Pour 8 jours sur la côte amalfitaine en juin, à deux, vols non compris, mon estimation se situe entre 2 800 € et 4 500 €, selon l'hébergement. En maison d'hôtes, comptez environ 2 800 € ; dans un petit hôtel avec vue sur la mer, environ 3 600 €. Mes honoraires s'ajoutent à part. Je vous présente les deux options côte à côte dans le programme.
+> Pour 8 jours sur la côte amalfitaine en juin, à deux, vols non compris, mon estimation se situe entre 2 800 € et 4 500 €, selon l'hébergement. En maison d'hôtes, comptez environ 2 800 € ; dans un petit hôtel avec vue sur la mer, environ 3 600 €. Mes honoraires s'ajoutent à part. Je vous présente les deux options côte à côte dans le programme.
 
 Pour le planner : estimation à valider avant envoi (hypothèses : juin, vols non compris, deux niveaux d'hébergement).
 
@@ -131,7 +133,7 @@ Pour le planner : estimation à valider avant envoi (hypothèses : juin, vols 
 
 **Après (montant donné par l'utilisateur) :**
 
-> Mes honoraires pour ce dossier sont de 390 €. Ils comprennent l'entretien de découverte, deux propositions d'itinéraire, une série d'ajustements et le carnet final. Les réservations, que vous faites vous-même avec les liens fournis, n'en font pas partie. 30 % à la validation de la proposition, le solde à la remise du carnet.
+> Mes honoraires pour ce dossier sont de 390 €. Ils comprennent l'entretien de découverte, deux propositions d'itinéraire, une série d'ajustements et le carnet final. Les réservations, que vous faites vous-même avec les liens fournis, n'en font pas partie. 30 % à la validation de la proposition, le solde à la remise du carnet.
 
 ## 9. Le carnet illisible
 
@@ -151,7 +153,7 @@ Pour le planner : estimation à valider avant envoi (hypothèses : juin, vols 
 
 **Avant :**
 
-> J'ai testé ce restaurant l'été dernier, un vrai coup de cœur ! Ouvert tous les jours de 12 h à 23 h, comptez 35 € par personne.
+> J'ai testé ce restaurant l'été dernier, un vrai coup de cœur ! Ouvert tous les jours de 12 h à 23 h, comptez 35 € par personne.
 
 **Après (les notes du planner indiquent que la recommandation vient de son réceptif) :**
 
@@ -181,9 +183,9 @@ Pour le planner : ces réservations sont-elles déjà faites, et par quelle age
 
 > **Jour 3 · Knossos et côte nord**
 > 8 h 30 · Départ de l'hôtel, environ 25 min en voiture.
-> Le site ouvre à 8 h en été : vous visitez avant la chaleur. Comptez 1 h 30, c'est assez avec les enfants. 20 € par adulte, gratuit pour les moins de 18 ans. Billets sur hhticket.gr, le site officiel (tarif et horaires vérifiés le 7 novembre 2026).
+> Le site ouvre à 8 h en été : vous visitez avant la chaleur. Comptez environ 1 h 30, c'est assez avec les enfants. 20 € par adulte, gratuit pour les moins de 18 ans. Billets sur hhticket.gr, le site officiel (tarif et horaires vérifiés le 7 novembre 2026).
 > Au retour, arrêt à Archanes, à 10 min en voiture, pour un en-cas sur la place.
 > Après-midi · Plage d'Agia Pelagia.
 > Plan B si le vent se lève : le musée archéologique d'Héraklion, à environ 30 min en voiture, qui expose les fresques originales de Knossos. Les enfants y verront en vrai ce qu'ils ont aperçu le matin.
 
-Pour le planner : non vérifiés, les temps de route de l'hôtel à Knossos, à Agia Pelagia et au musée, les horaires du musée, et ceux de Knossos si le voyage a lieu hors avril-octobre.
+Pour le planner : non vérifiés, la durée de visite de Knossos, les temps de route de l'hôtel à Knossos, à Agia Pelagia et au musée, les horaires du musée, et ceux de Knossos si le voyage a lieu hors avril-octobre.
