@@ -1,6 +1,7 @@
 # TravelSkills
 
-Open-source Agent Skills for travel and tourism professionals.
+Open-source skills for travel pros, in the Agent Skills format that Claude and
+ChatGPT read. Built from how the work is really done, not from generic web data.
 
 A skill is a set of instructions and examples you add to an AI assistant once.
 The assistant then uses it whenever your request matches.
