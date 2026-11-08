@@ -16,7 +16,7 @@ The skills follow the open [Agent Skills](https://agentskills.io) standard.
 
 | Skill | For | Status |
 | --- | --- | --- |
-| [`travel-planner`](travel-planner/) | Independent travel planners and travel advisors | Available |
+| [`travel-planner`](travel-planner/) | Independent travel planners and travel advisors | Preview |
 
 ### travel-planner
 
@@ -41,8 +41,8 @@ it yet.
 
 ## Status
 
-Built in public. `travel-planner` is the first skill; more will follow, one job
-at a time.
+Built in public. `travel-planner` is the first skill, in preview.
+`visitor-advisor` comes next.
 
 ## License
 
