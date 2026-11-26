@@ -121,9 +121,11 @@ Pour le planner : estimation à valider avant envoi (hypothèses : juin, vols 
 
 > Votre séjour comprend : vols aller-retour Paris-Lisbonne, 7 nuits en hôtel 4 étoiles, transferts aéroport, excursion à Sintra, dîner-spectacle fado.
 
-**Après :**
+**Après (souhaits donnés par l'utilisateur : une ville à pied, sans voiture, une vraie soirée de musique) :**
 
-> Vous m'avez dit vouloir une ville à pied, sans voiture, et une vraie soirée de musique. J'ai donc choisi un hôtel dans l'Alfama : tout se fait à pied, mais ça grimpe, prévoyez des chaussures plates. Sintra tombe le jour 4, en train, puisque c'est la seule journée où vous vouliez quitter la ville. Pour le fado, une petite salle le jeudi soir plutôt qu'un dîner-spectacle, comme vous le préfériez.
+> Vous cherchiez une ville à vivre à pied, sans voiture, avec une vraie soirée de musique. L'hôtel est donc dans l'Alfama : tout se fait à pied, mais le quartier grimpe, prévoyez des chaussures plates. Une seule sortie de Lisbonne, le jour 4, pour Sintra, et elle se fait en train. Pour le fado, une petite salle le jeudi soir plutôt qu'un dîner-spectacle : on y vient pour écouter, pas pour dîner.
+
+Pour le planner : non vérifiés, les soirs d'ouverture de la salle de fado et les horaires du train pour Sintra.
 
 ## 8. Les honoraires qui s'excusent
 
