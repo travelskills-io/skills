@@ -112,9 +112,11 @@ For the planner: estimate to validate before sending (assumptions: June, flights
 
 > Your package includes round-trip airfare Boston to Lisbon, 7 nights at a 4-star hotel, airport transfers, a Sintra excursion and a fado dinner show.
 
-**After:**
+**After (wishes given by the user: a walkable city, no rental car, one great night of music):**
 
-> You told me you wanted a city you can walk, no rental car, and one great night of music. So I put you in the Alfama: you can walk almost everywhere, but it's hilly, so pack good shoes. Sintra is day 4, by train, because that's the one day you wanted out of the city. For fado, I chose a small house on Thursday night instead of a dinner show, since you said you'd rather listen than dine.
+> You wanted a city you can walk, no rental car, and one great night of music. So the hotel is in the Alfama: you can walk almost everywhere, but it's hilly, so pack flat shoes. You leave Lisbon once, on day 4, for Sintra, and you go by train. For fado, a small house on Thursday night instead of a dinner show: people go there to listen, not to dine.
+
+For the planner: not verified are the nights the fado house is open and the train times to Sintra.
 
 ## 8. The apologetic fee
 
